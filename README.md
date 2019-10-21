@@ -1,2 +1,5 @@
-# Project01
-Profolio project 01
+# Project01 (Watch Brand)
+
+We are going to design a website which containes products.
+
+
